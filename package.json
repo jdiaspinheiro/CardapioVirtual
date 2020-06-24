@@ -1,0 +1,22 @@
+{
+  "name": "cardapiovirtual",
+  "version": "1.0.0",
+  "description": "Cardapio Virtual",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaelCSSilva/CardapioVirtual.git"
+  },
+  "author": "Raphael Silva, João Pinheiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaelCSSilva/CardapioVirtual/issues"
+  },
+  "homepage": "https://github.com/RaphaelCSSilva/CardapioVirtual#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
